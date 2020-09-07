@@ -11,7 +11,8 @@ namespace Q387
         static void Main(string[] args)
         {
             int day = int.Parse(Console.ReadLine());
-            switch (day){
+            switch (day)
+            {
                 case 1:
                 case 2:
                 case 3:
