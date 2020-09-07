@@ -15,7 +15,7 @@ namespace Q385
             {
                 Console.WriteLine("成年");
             }
-            else if(age < 18)
+            else if (age < 18)
             {
                 Console.WriteLine("未成年");
             }
